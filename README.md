@@ -12,7 +12,7 @@
 6. Все новые тесты нужно писать в папке /integration
 
 ### ✔ Автотесты для формы логина и пароля на https://www.21vek.by/
-1. [Проверка на позитивный кейс авторизации:](https://github.com/ViktoryiaKaplunHryts/cypress.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
+1. [Проверка на позитивный кейс авторизации:](https://github.com/ViktoryiaKaplunHryts/cypress1.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
 
 * Открыть сайт
 * Принять cookie
@@ -22,7 +22,7 @@
 * Ввести правильный пароль
 * Нажать "Войти"
 
-2. [Проверка логики восстановления пароля:](https://github.com/ViktoryiaKaplunHryts/cypress.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
+2. [Проверка логики восстановления пароля:](https://github.com/ViktoryiaKaplunHryts/cypress1.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
 
 * Открыть сайт
 * Принять cookie
@@ -34,7 +34,7 @@
 * Проверка, что получили нужный текст
 * Проверка, что есть кнопка крестика и клик по крестику.
 
-3. [Проверка на негативный кейс авторизации:](https://github.com/ViktoryiaKaplunHryts/cypress.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
+3. [Проверка на негативный кейс авторизации:](https://github.com/ViktoryiaKaplunHryts/cypress1.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
 
 * Открыть сайт
 * Принять cookie
@@ -45,7 +45,7 @@
 * Нажать войти
 * Проверка нужного текста
 
-4. [Проверка на негативный кейс авторизации:](https://github.com/ViktoryiaKaplunHryts/cypress.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
+4. [Проверка на негативный кейс авторизации:](https://github.com/ViktoryiaKaplunHryts/cypress1.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
 
 * Открыть сайт
 * Принять cookie
@@ -56,7 +56,7 @@
 * Нажать войти
 * Проверка нужного текста
 
-5. [Проверка на негативный кейс валидации:](https://github.com/ViktoryiaKaplunHryts/cypress.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
+5. [Проверка на негативный кейс валидации:](https://github.com/ViktoryiaKaplunHryts/cypress1.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
 
 * Открыть сайт
 * Принять cookie
@@ -67,7 +67,7 @@
 * Нажать войти
 * Проверка нужного текста
 
-6. [Проверка покупки товаров на сайте:](https://github.com/ViktoryiaKaplunHryts/cypress.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
+6. [Проверка покупки товаров на сайте:](https://github.com/ViktoryiaKaplunHryts/cypress1.js/blob/main/test.js/cypress/e2e/www.21vek.by/21%D0%B2%D0%B5%D0%BA.cy.js)
 
 * Открыть сайт
 * Принять cookie
